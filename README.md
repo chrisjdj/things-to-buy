@@ -4,6 +4,3 @@ A list of grocery items that you could select and share via email/copy to clipbo
 
 
 `Tap to select / Double tap to deselect`
-
-
-[Demo](https://chrisjdj.github.io/things-to-buy/)
